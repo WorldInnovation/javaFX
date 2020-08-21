@@ -1,0 +1,11 @@
+# Folder to ignore at the root of the repository
+out/
+
+## JetBrains IDEA
+.idea/
+*.iml
+
+
+
+
+
